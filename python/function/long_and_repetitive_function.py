@@ -1,4 +1,4 @@
-//Bad Code
+#Bad Code
 INVALID_INPUT = "INVALID_INPUT"
 FAILURE = "FAILURE"
 SUCCESS = "SUCCESS"
@@ -37,10 +37,8 @@ def average_highest_player_level_by_group(GroupID, m, avgLevel):
 
     return SUCCESS
   
-  
-  //Good Code
-  
-  INVALID_INPUT = "INVALID_INPUT"
+#Good Code
+INVALID_INPUT = "INVALID_INPUT"
 FAILURE = "FAILURE"
 SUCCESS = "SUCCESS"
 
