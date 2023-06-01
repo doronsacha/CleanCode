@@ -1,4 +1,4 @@
-//Bad Code
+#Bad Code
 def process_data(data):
     # Perform data processing
     processed_data = perform_computation(data)
@@ -12,7 +12,7 @@ def process_data(data):
     # Return the processed data
     return processed_data
 
-  //Good Code
+  #Good Code
   def process_data(data):
     # Perform data processing
     processed_data = perform_computation(data)
