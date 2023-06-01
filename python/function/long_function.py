@@ -1,4 +1,4 @@
-//Bad Code
+#Bad Code
 
 def process_data(input_data):
     # This function processes the input data to generate an output result, but it's extremely long and hard to follow
@@ -34,7 +34,7 @@ def process_data(input_data):
 
     return result
   
-  //Good Code
+  #Good Code
   def process_data(input_data):
     # This function processes the input data to generate an output result
 
