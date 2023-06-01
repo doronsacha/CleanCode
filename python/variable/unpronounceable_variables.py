@@ -1,8 +1,6 @@
 
-//Bad Code
+#Bad Code
 def doSomething(srh39fdfkdl):
-    # This function is supposed to check if the Sudoku is correct or not
-    # But with these variable names, it's difficult to understand what's going on
     for i in range(9):
         for j in range(9):
             x1i90jjdk = srh39fdfkdl[i][j]
@@ -19,7 +17,7 @@ def doSomething(srh39fdfkdl):
                         return False
     return True
 
-//Good Code
+#Good Code
 def is_valid_sudoku(sudoku_grid):
     for row in range(9):
         for col in range(9):
