@@ -1,4 +1,4 @@
-//Bad Code
+#Bad Code
 def make_pizza():
     # Mix the ingredients for the dough
     flour = 2  # cups
@@ -37,7 +37,7 @@ def make_pizza():
 
     return pizza
     
-//Good Code
+#Good Code
 
 def make_pizza():
     prepare_dough()
