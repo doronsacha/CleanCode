@@ -1,4 +1,4 @@
-//Bad Code
+#Bad Code
 
 def f(n):
     if n <= 1:
@@ -17,7 +17,7 @@ def p(l):
     print()
 
     
-//Good code
+#Good code
 
 def calculate_factorial(num):
     if num <= 1:
